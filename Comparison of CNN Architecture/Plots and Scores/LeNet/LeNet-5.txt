@@ -1,0 +1,19 @@
+Final Results:
+
+MNIST dataset:
+Accuracy: 0.9859
+Precision: 0.9860
+Recall: 0.9859
+F1-score: 0.9859
+
+Fashion MNIST dataset:
+Accuracy: 0.8838
+Precision: 0.8840
+Recall: 0.8838
+F1-score: 0.8830
+
+CIFAR-10 dataset:
+Accuracy: 0.5595
+Precision: 0.5553
+Recall: 0.5595
+F1-score: 0.5518
